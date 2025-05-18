@@ -6,7 +6,7 @@ import random
 app = FastAPI()
 
 # Bot and Firebase settings
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7852794983:AAG-OewNJtm2la6BPbqhlty1Eo0cKLaFy")
+BOT_TOKEN = os.getenv("7647337975:AAGUtM4h0B3sW2VyLsLZBxr6XKXmbK_hCG8")
 LOG_CHANNEL = "-1002523004984"
 BOT_USERNAME = "File_To_Link_2Bot"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
